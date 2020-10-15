@@ -1,5 +1,5 @@
 # Rabbit-Coder-Sample-Starter
-> Rabbit Coder is an augemnted reality puzzle game based on coding, built with Spark AR Studio. This is the sample starter for the tutorial.
+> This is the sample starter for the tutorial.
 
 ## Installation
 
